@@ -21,10 +21,8 @@
 
 ## **The Site View**
 
-<p align="center"
+<p align="center">
    <img src="./assets/images/mock-up.gif" alt="Web Page Mock-Up">
-  </b>
-  </b>
 </p>
 
 ## **Installation**
